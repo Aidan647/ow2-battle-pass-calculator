@@ -16,12 +16,14 @@
     "battlepass",
     "battle-pass",
     "overwatch-2"
-
   ],
   "author": "sophice",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/sophice/ow2-battle-pass-calculator/issues"
   },
-  "homepage": "https://github.com/sophice/ow2-battle-pass-calculator#readme"
+  "homepage": "https://github.com/sophice/ow2-battle-pass-calculator#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
 }
