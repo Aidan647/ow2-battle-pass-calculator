@@ -1,0 +1,27 @@
+{
+  "name": "ow2-battle-pass-calculator",
+  "description": "This is a battle pass calculator for Overwatch 2. Fill out a few fields and you will get back.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sophice/ow2-battle-pass-calculator.git"
+  },
+  "keywords": [
+    "overwatch",
+    "calculator",
+    "calculator-js",
+    "overwatch-stats",
+    "battlepass",
+    "battle-pass",
+    "overwatch-2"
+
+  ],
+  "author": "sophice",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sophice/ow2-battle-pass-calculator/issues"
+  },
+  "homepage": "https://github.com/sophice/ow2-battle-pass-calculator#readme"
+}
