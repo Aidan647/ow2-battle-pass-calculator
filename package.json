@@ -2,6 +2,8 @@
   "name": "ow2-battle-pass-calculator",
   "description": "This is a battle pass calculator for Overwatch 2. Fill out a few fields and you will get back.",
   "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
